@@ -55,7 +55,7 @@
   
 </style>
 <body>
-  <h3 contenteditable="true">WELCOME TO TKJ 1</h3>
+  <h3 contenteditable="true">WELCOME TO TJKT 1</h3>
 </body>
 </html>
 
@@ -80,7 +80,7 @@
   
 </style>
 <body>
-  <h2 contenteditable="true"> SATRIA ABQARI NUGRAHA</h2>
+  <h2 contenteditable="true"> Athariq Fathurahman Nugraha </h2>
 </body>
 </html>
 
